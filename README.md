@@ -1,7 +1,7 @@
 AI-Based Smart CCTV Surveillance System for Suspicious Activity Detection and Alert Generation
 ---
-Author(s): Your Name
-Affiliation: Your College / University
+Author(s): Pranay P. Somnathe
+Affiliation: Suryodaya College of Engineering and Technology
 Date: March 2026
 ---
 
